@@ -41,8 +41,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PiyushMalviyaOfficially")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Cherished_Community")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mehmetttbio")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/hissizmehmet")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -83,21 +83,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/8593cfb40b5515b05c773.jpg"
+    "START_IMG_URL", "https://te.legra.ph/musickss-03-12"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/e0c719d0e822770edd7e1.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/musickss-03-12"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/e0c719d0e822770edd7e1.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/a2bd4dad1a15260f7fd50.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/2a2e0db333a81804d54ce.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/2a2e0db333a81804d54ce.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/0b97e041c5ba2f91b7a87.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/2a2e0db333a81804d54ce.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
+STATS_IMG_URL = "https://te.legra.ph/musickss-03-12"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/musickss-03-12"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/musickss-03-12"
+STREAM_IMG_URL = "https://te.legra.ph/musickss-03-12"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/musickss-03-12"
+YOUTUBE_IMG_URL = "https://te.legra.ph/musickss-03-12"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/musickss-03-12"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/musickss-03-12"
 
 
 def time_to_seconds(time):
